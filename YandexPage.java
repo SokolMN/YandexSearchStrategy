@@ -10,6 +10,7 @@ public class YandexPage {
 
     YandexPage(WebDriver driver){
         /*Adding Comment for Test*/
+	/*Addin Second Comment for Test*/
         this.driver = driver;
     }
 
