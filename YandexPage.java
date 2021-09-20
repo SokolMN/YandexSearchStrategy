@@ -12,6 +12,7 @@ public class YandexPage {
         /*Adding Comment for Test*/
 	/*Addin Second Comment for Test*/
         /*Adding third comment*/
+	/*добавил комента*/
         this.driver = driver;
     }
 
